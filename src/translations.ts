@@ -1,3 +1,13 @@
+
+// types/global.d.ts
+declare global {
+  interface Window {
+    gtag: (...args: any[]) => void;
+  }
+}
+
+export {};
+
 export const translations = {
   ar: {
     title: 'كيف تحقق دخل شهري يفوق 3000 دولار مع شركة DXN بخطوات عملية',

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://join2dxn.art/sitemap.xml
